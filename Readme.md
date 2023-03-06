@@ -1,4 +1,4 @@
-# Heroes of Hammerwatch English
-This is a git repository with the history of all the English translation files.
+# Heroes of Hammerwatch Español (ES)
+Se trata de un repositorio git con el historial de todos los archivos de traducción al español de españa.
 
-Take a look at the [commit log](https://github.com/Crackshell/heroes-english-history/commits/master) for all the changes.
+Echa un vistazo al [registro de commit](https://github.com/Crackshell/heroes-english-history/commits/master) para ver todos los cambios.
