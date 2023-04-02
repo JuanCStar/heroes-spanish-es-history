@@ -2630,7 +2630,7 @@
 	<string name="item.apothecarys-herbs.desc">Beber tu Poción activa una mejora de Velocidad de Movimiento del %mspeed%% durante %dur% segundos.</string>
 
 	<string name="item.blackjack.name">Blackjack</string>
-	<string name="item.blackjack.desc">de probabilidad de aturdir a los enemigos durante %dur% segundos con el Ataque Principal.</string>
+	<string name="item.blackjack.desc">%chance%% de probabilidad de aturdir a los enemigos durante %dur% segundos con el Ataque Principal.</string>
 
 	<string name="item.book-of-enlightenment.name">Libro de la Revelación</string>
 	<string name="item.book-of-enlightenment.desc">+%exp%% de Experiencia obtenida.</string>
